@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tadra.WebApi.props" />
+</Project>

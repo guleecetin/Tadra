@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tadra.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4d4680eefe961df1dee7c2c32bed59bb89eb4ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c2857cd2daabded6416b7836816e3f7d8edd17")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tadra.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tadra.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

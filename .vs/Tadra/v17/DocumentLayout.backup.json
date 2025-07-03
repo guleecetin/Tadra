@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gulen\\source\\repos\\Tadra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gulen\\source\\repos\\Tadra\\Tadra.WebApi\\Migrations\\20250702083602_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tadra.WebApi\\Migrations\\20250702083602_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06241153-A61B-4473-8F3E-81A898A2037D}|Tadra.WebApi\\Tadra.WebApi.csproj|c:\\users\\gulen\\source\\repos\\tadra\\tadra.webapi\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06241153-A61B-4473-8F3E-81A898A2037D}|Tadra.WebApi\\Tadra.WebApi.csproj|solutionrelative:tadra.webapi\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06241153-A61B-4473-8F3E-81A898A2037D}|Tadra.WebApi\\Tadra.WebApi.csproj|c:\\users\\gulen\\source\\repos\\tadra\\tadra.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06241153-A61B-4473-8F3E-81A898A2037D}|Tadra.WebApi\\Tadra.WebApi.csproj|solutionrelative:tadra.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250702083602_mig1.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Tadra\\Tadra.WebApi\\Migrations\\20250702083602_mig1.cs",
-              "RelativeDocumentMoniker": "Tadra.WebApi\\Migrations\\20250702083602_mig1.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Tadra\\Tadra.WebApi\\Migrations\\20250702083602_mig1.cs",
-              "RelativeToolTip": "Tadra.WebApi\\Migrations\\20250702083602_mig1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Tadra\\Tadra.WebApi\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Tadra.WebApi\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Tadra\\Tadra.WebApi\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Tadra.WebApi\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:36:02.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApiContext.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\Tadra\\Tadra.WebApi\\Context\\ApiContext.cs",
-              "RelativeDocumentMoniker": "Tadra.WebApi\\Context\\ApiContext.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\Tadra\\Tadra.WebApi\\Context\\ApiContext.cs",
-              "RelativeToolTip": "Tadra.WebApi\\Context\\ApiContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:23:34.037Z",
+              "WhenOpened": "2025-07-03T21:55:09.923Z",
               "EditorCaption": ""
             }
           ]
